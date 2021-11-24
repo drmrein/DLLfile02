@@ -4,6 +4,7 @@
 // MVID: F1F0AA7E-E946-48DB-AD4B-72A40C87C934
 // Assembly location: C:\Users\Darma\Downloads\Object Deployment\Object Deployment\PCR\WISE\SERVER WEB-APPS\inetpub\wwwroot\CONFINS\bin\MF.Report.Marketing.Web.dll
 
+// test remark
 using AdIns.Applicationbloks.Data;
 using Confins.Web;
 using Confins.Web.WebUserControl;
